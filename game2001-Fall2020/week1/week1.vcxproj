@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="MemoryAccess.cpp" />
     <ClCompile Include="TemplateExample.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
